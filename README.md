@@ -1,0 +1,1 @@
+Goal: To learn AWS concepts and do practice and make notes.
