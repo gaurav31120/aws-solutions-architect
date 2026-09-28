@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 6 / 192**
+**Completed: 8 / 192**
 
 ---
 
