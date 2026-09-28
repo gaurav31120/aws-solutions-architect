@@ -33,4 +33,8 @@
 
 ---
 
+## Topic 02 — IAM & AWS CLI
+
+- [ ] **LAB005 — Create IAM Test User**
+
 
