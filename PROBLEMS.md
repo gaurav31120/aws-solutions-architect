@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 10 / 192**
+**Completed: 11 / 192**
 
 ---
 
@@ -44,3 +44,5 @@
 - [x] **L009 — Create IAM Role** — ✅ DONE
 
 - [x] **L010 — Configure AWS CLI** — ✅ DONE
+
+- [x] **L011 — Use AWS CLI** — ✅ DONE
