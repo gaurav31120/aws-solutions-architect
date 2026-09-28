@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 8 / 192**
+**Completed: 9 / 192**
 
 ---
 
@@ -40,3 +40,5 @@
 - [x] **L006 — Create IAM Group** — ✅ DONE
 
 - [x] **L008 — Test IAM Permissions** — ✅ DONE
+
+- [x] **L009 — Create IAM Role** — ✅ DONE
