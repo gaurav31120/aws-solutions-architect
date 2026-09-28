@@ -38,3 +38,5 @@
 - [x] **L005 — Create IAM Test User** — ✅ DONE
 
 - [x] **L006 — Create IAM Group** — ✅ DONE
+
+- [x] **L008 — Test IAM Permissions** — ✅ DONE
