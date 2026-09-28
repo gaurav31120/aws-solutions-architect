@@ -447,7 +447,3 @@ Created IAM User:
 **LAB006 — Create IAM Group**
 
 ---
-
-# Git Commit Message
-
-    feat(lab005): create iam test user
